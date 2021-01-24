@@ -1,0 +1,10 @@
+.clients-block_grid{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.top-20{
+    padding: 40px 0px;
+}

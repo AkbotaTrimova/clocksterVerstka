@@ -1,0 +1,72 @@
+.specific-block_title {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.specific-block_main_text {
+    text-align: justify;
+    padding-left: 100px;
+}
+
+.specific-block_table_header1 {
+    background-color: #374AB2;
+    color: white;
+    padding: 35px 50px;
+    height: 172px;
+    border-collapse: collapse;
+}
+
+.specific-block_table_header2 {
+    background-color: #1E3142;
+    color: white;
+    padding: 35px 50px;
+    height: 172px;
+    border-collapse: collapse;
+}
+
+.specific-block_table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.specific-block_table_body1{
+    background-color: #3050FF;
+    color: white;
+    padding: 35px 50px;
+    height: 172px;
+}
+
+.specific-block_table_body2{
+    background-color: #2C3843;
+    color: white;
+    padding: 35px 50px;
+    height: 172px;
+}
+
+.specific-block_table_body1_bottom-border{
+    border-bottom: #fff 1px solid;
+    padding: 20px 0px;
+    height: 160px;
+}
+
+.transparent_number{
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.specific-block_table_text{
+    font-weight: 400;
+    font-size: 22px;
+    width: 485px;
+}
+
+.specific-block_table_header_text{
+    font-size: 24px;
+    font-weight: 700;
+    width: 500px;
+}
+
+
