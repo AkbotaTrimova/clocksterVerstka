@@ -1,0 +1,78 @@
+.contact-block_whatsapp_button {
+    color: white;
+    background-color: #58C0AC;
+    border-radius: 50px;
+    border: none;
+    width: 300px;
+    height: 65px;
+}
+
+.contact-block_whatsapp_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-block_grid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.contact-block_colorful-back {
+    background-color: #1F2932;
+    margin-top: 50px;
+    padding: 50px 0;
+}
+
+.contact-block_grid-text {
+    color: white;
+    font-weight: 700;
+    font-size: 59px;
+    width: 500px;
+    text-align: left;
+}
+
+.contact-block_whatsapp_button_text {
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.contact-block_colorful-back2 {
+    background-color: #2C3843;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.contact-block_colorful-back2_text {
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.contact-block_colorful-back2_text a{
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.contact-block_colorful-back2_text2 {
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+}
+
+.contact-block_colorful-back2_container {
+    width: 400px;
+}
+
+.contact-block_whatsapp a{
+    text-decoration: none;
+}

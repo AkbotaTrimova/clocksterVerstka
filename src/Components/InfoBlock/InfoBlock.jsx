@@ -20,9 +20,11 @@ function InfoBlock() {
                             <Button className='info-block_description_button2'>Clockster X</Button>
                             <p className='info-block_description_bonus_text'>Напишите нам прямо сейчаc
                                 и получите свои бонусы</p>
-                            <div className='info-block_description_wp' href='#'>
-                                <span className='info-block_description_wp_icon'><span> </span></span>
-                                <span className='info-block_description_wp_text' >Написать в Whatsapp</span>
+                            <div className='info-block_description_wp'>
+                                <a href='https://api.whatsapp.com/send?phone=77054290379&text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%20%D0%91%D0%BE%D1%82%D0%B0%2C%20%D0%B2%D1%8B%20%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D1%82%D1%8B%20%D0%B2%20Clockster'>
+                                    <span className='info-block_description_wp_icon'><span> </span></span>
+                                    <span className='info-block_description_wp_text'>Написать в Whatsapp</span>
+                                </a>
                             </div>
                         </div>
                     </Grid.Column>
